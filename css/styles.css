@@ -22,6 +22,22 @@ html {
   height: 100%;
 }
 
+body {
+  display: flex;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-color);
+  font-family: 'Varela Round', sans-serif;
+  /* Very similar font to Helvetica Round.*/
+  /*font-size: 1.1rem;
+  font-weight: bold;
+  background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  /*  background-repeat: no-repeat; /* Don't repeat gradient in landscape mode on mobile phones*/
+  /*  background-attachment: fixed;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -45,20 +61,6 @@ html {
   height: 1.5em;
 }
 
-body {
-  display: flex;
-  margin-top: 5%;
-  margin-bottom: 5%;
-  align-items: center;
-  justify-content: center;
-  color: var(--text-color);
-  font-family: 'Varela Round', sans-serif; /* Very similar font to Helvetica Round.*/
-/*font-size: 1.1rem;
-  font-weight: bold;
-  background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-/*  background-repeat: no-repeat; /* Don't repeat gradient in landscape mode on mobile phones*/
-/*  background-attachment: fixed;
-}
 
 form {
   display: block;
