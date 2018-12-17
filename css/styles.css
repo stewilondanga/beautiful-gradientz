@@ -11,6 +11,12 @@
   --button-color: hsl(356, 90%, 64%);
 }
 
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -35,11 +41,6 @@
 }
 
 
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
 
 html { /* html is full screen. */
 /*height: 100%;
