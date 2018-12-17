@@ -82,7 +82,7 @@ fieldset {
   padding: 10px;
 }
 
-/*input[type="submit"] {
+input[type="submit"] {
   font-family: inherit;
   font-size: 1.3rem;
   font-weight: 600;
@@ -96,7 +96,7 @@ fieldset {
   transition: all 0.2s ease-out;
 }
 
-input[type="submit"]:hover {
+/*input[type="submit"]:hover {
   cursor: pointer;
   background-color: var(--button-color, black);
   color: var(--formcolor);
