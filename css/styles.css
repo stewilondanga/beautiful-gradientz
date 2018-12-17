@@ -103,7 +103,7 @@ input[type="submit"]:hover {
   transition-duration: 0.4s;
 }
 
-/*.input-field {
+.input-field {
   border: 0;
   border-radius: 5px;
   height: 40px;
@@ -112,7 +112,7 @@ input[type="submit"]:hover {
   background-color: #f0f0f0;
 }
 
-label {
+/*label {
   display: block;
 }
 
