@@ -2,8 +2,9 @@
 @import "https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css";
 /* Import Varela Round from Google Fonts*/
 @import url('https://fonts.googleapis.com/css?family=Varela+Round');
+
 /*Variables defined*/
-/*:root {
+:root {
   --main-color: coral;
   --text-color: #444;
   --formcolor: white;
