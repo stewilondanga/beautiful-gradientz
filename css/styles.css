@@ -71,12 +71,12 @@ form {
   margin-bottom: 15px;
 }
 
-/*.signup-field {
+.signup-field {
   padding: 10px;
   text-align: left;
 }
 
-fieldset {
+/*fieldset {
   display: inline;
   text-align: left;
   padding: 10px;
